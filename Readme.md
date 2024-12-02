@@ -1,1 +1,1 @@
-MEP - Model Evaluation Platform: A Comprehensive Framework for Language Model Evaluation and Benchmarking
+MEF - Model Evaluation Framework: A Comprehensive Framework for Language Model Evaluation and Benchmarking
